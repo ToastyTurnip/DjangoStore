@@ -1,0 +1,1 @@
+Exploratory Project for Django
